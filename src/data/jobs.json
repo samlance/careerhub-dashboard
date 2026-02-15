@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Synthetic Biology Engineer",
+    "type": "Full Time",
+    "posted": "7 months",
+    "location": "Boston",
+    "tags": ["Genetic Engineering", "Metabolic Engineering", "CRISPR"],
+    "company": "BioTech",
+    "salary": 110000,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "Augmented Reality UX Designer",
+    "type": "Full Time",
+    "posted": "8 months",
+    "location": "Los Angeles",
+    "tags": ["AR Design", "3D Modeling"],
+    "company": "PixelPerfect",
+    "salary": 95000,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "title": "AI Ethics Researcher",
+    "type": "Part Time",
+    "posted": "2 months",
+    "location": "San Francisco",
+    "tags": ["AI", "Policy", "Ethics"],
+    "company": "ThinkAI",
+    "salary": 65000,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "title": "Climate Data Analyst",
+    "type": "Contract",
+    "posted": "1 month",
+    "location": "Seattle",
+    "tags": ["Climate", "Data Science", "R"],
+    "company": "EcoAnalytics",
+    "salary": 80000,
+    "status": "Closed"
+  }
+]
